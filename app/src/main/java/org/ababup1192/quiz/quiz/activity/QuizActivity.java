@@ -22,7 +22,7 @@ import org.ababup1192.quiz.quiz.game.RightAnswer;
 import java.util.Collections;
 import java.util.List;
 
-import util.LayoutHelper;
+import org.ababup1192.quiz.util.LayoutHelper;
 
 public class QuizActivity extends ActionBarActivity {
 
