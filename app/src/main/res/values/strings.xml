@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Global -->
+
+
+    <!-- Score -->
+    <string name="high_score">ハイスコア : </string>
+
+    <!-- Image description -->
+    <string name="question_image">question</string>
+    <string name="socket_image">socket</string>
+    <string name="question_paper_image">question paper</string>
+
+    <!-- Title -->
+    <string name="title">クイズ</string>
+    <string name="title_start_button">Start</string>
+    <string name="title_activity_quiz">Quiz</string>
+    <string name="title_activity_game_over">GameOver</string>
+
+    <!-- Game Over -->
+    <string name="game_over_text1">しゅーりょー</string>
+    <string name="game_over_text2">スコア</string>
+    <string name="game_over_high_score">ハイスコア!!</string>
+    <string name="game_over_continue">つづける</string>
+    <string name="game_over_end">おわる</string>
+
+</resources>
